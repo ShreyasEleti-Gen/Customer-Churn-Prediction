@@ -1,4 +1,4 @@
-###Telco Customer Churn Analysis & Predictive Modeling
+## Telco Customer Churn Analysis & Predictive Modeling
 
 This project analyzes customer churn using the Telco Customer Churn dataset, performs Exploratory Data Analysis (EDA), addresses class imbalance using SMOTE, and evaluates predictive models (Logistic Regression and XGBoost) to identify high-risk customers.
 
